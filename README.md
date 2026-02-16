@@ -11,8 +11,8 @@ I bridge the gap between complex ML models and deployable applications.
 * **Languages:** Python, Java, C++, SQL
 * **AI/ML:** PyTorch, Scikit-learn, LangChain, FAISS, HuggingFace
 * **Backend:** FastAPI, Django, Node.js
-* **Tools:** Docker, Git, Postman
+* **Tools:** Docker, Git, Postmanv
 
 ---
 ### 📈 GitHub Stats
-![Vijayendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijayendra2707&show_icons=true&theme=radical)
+![Vijayendra's GitHub Stats](https://streak-stats.demolab.com/?user=Vijayendra2707&theme=radical)
