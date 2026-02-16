@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Vijayendra Rane! 👋
+### 🎓 CS Junior | 🤖 AI & GenAI Enthusiast | 🚀 Backend Developer
 
-<!--
-**Vijayendra2707/Vijayendra2707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between complex ML models and deployable applications.
+* **Focus:** Retrieval-Augmented Generation (RAG), LLMs, and Scalable APIs.
+* **Currently Learning:** Advanced MLOps and Docker orchestration.
+* **Ask me about:** Python, FastAPI, Django, and Vector Databases.
 
-Here are some ideas to get you started:
+---
+### 🛠️ Tech Stack
+* **Languages:** Python, Java, C++, SQL
+* **AI/ML:** PyTorch, Scikit-learn, LangChain, FAISS, HuggingFace
+* **Backend:** FastAPI, Django, Node.js
+* **Tools:** Docker, Git, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 📈 GitHub Stats
+![Vijayendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijayendra2707&show_icons=true&theme=radical)
