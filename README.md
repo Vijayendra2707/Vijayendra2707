@@ -9,7 +9,7 @@ I bridge the gap between complex ML models and deployable applications.
 ---
 ### 🛠️ Tech Stack
 * **Languages:** Python, Java, C++, SQL
-* **AI/ML:** PyTorch, Scikit-learn, LangChain, FAISS, HuggingFace
+* **AI/ML:** PyTorch, Scikit-learn, LangChain, LangGraph, Agents, FAISS, HuggingFace
 * **Backend:** FastAPI, Django, Node.js
 * **Tools:** Docker, Git, Postmanv
 
