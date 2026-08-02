@@ -15,4 +15,3 @@ I bridge the gap between complex ML models and deployable applications.
 
 ---
 ### 📈 GitHub Stats
-![Vijayendra's GitHub Stats](https://streak-stats.demolab.com/?user=Vijayendra2707&theme=radical)
