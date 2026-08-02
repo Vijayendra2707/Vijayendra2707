@@ -12,8 +12,3 @@ I bridge the gap between complex ML models and deployable applications.
 * **AI/ML:** PyTorch, Scikit-learn, LangChain, LangGraph, Agents, FAISS, HuggingFace
 * **Backend:** FastAPI, Django, Node.js
 * **Tools:** Docker, Git, Postmanv
-
----
-### 📈 GitHub Stats
-
-![Vijayendra's GitHub Stats](https://streak-stats.demolab.com/?user=Vijayendra2707&theme=radical)
